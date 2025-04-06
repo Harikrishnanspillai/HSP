@@ -22,4 +22,4 @@ A simple personal portfolio website built using **only HTML and CSS**. This webs
 ├── Site-SS.png  
 └── todo.png  
 ## Live Demo
-[Visit Site](https://github.com/Harikrishnanspillai/HSP)
+[Visit Site](https://harikrishnanspillai.github.io/HSP/)
