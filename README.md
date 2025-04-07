@@ -8,10 +8,10 @@ A simple personal portfolio website built using **only HTML and CSS**. This webs
 - Sections: About, Contact, Projects, Resume
  ## 📁 Structure
 .  
-├── index.html  
-├── projects.html  
-├── resume.html  
-├── styles.css  
+├── index.html # Home Page  
+├── projects.html # Projects page  
+├── resume.html # Resume Page  
+├── styles.css # Style sheet  
 ├── README.md  
 └── Assets/  
 ├── AI-OCR.png  
