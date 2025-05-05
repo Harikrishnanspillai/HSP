@@ -220,7 +220,7 @@ textarea {
 
 #footer p {
     font-size: 14px;
-    margin-left: auto; /* ✅ ensures it's on the right */
+    margin-left: auto;
 }
 
 #projects {
