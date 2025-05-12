@@ -231,10 +231,15 @@ textarea {
     width: 80%;
     color: var(--bone);
 }
+
 #projects hr{
     color: var(--purple);
     margin: 10px auto 30px;
     width: 80%;
+}
+
+#projects span{
+    color: var(--purple);
 }
 
 #projects h1 {
